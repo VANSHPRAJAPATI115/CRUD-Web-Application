@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VANSHPRAJAPATI115/CRUD-Web-Application.git/static/css/main.9a6d1f18.css",
+    "main.js": "/VANSHPRAJAPATI115/CRUD-Web-Application.git/static/js/main.4afd466a.js",
+    "static/js/453.8ab44547.chunk.js": "/VANSHPRAJAPATI115/CRUD-Web-Application.git/static/js/453.8ab44547.chunk.js",
+    "index.html": "/VANSHPRAJAPATI115/CRUD-Web-Application.git/index.html",
+    "main.9a6d1f18.css.map": "/VANSHPRAJAPATI115/CRUD-Web-Application.git/static/css/main.9a6d1f18.css.map",
+    "main.4afd466a.js.map": "/VANSHPRAJAPATI115/CRUD-Web-Application.git/static/js/main.4afd466a.js.map",
+    "453.8ab44547.chunk.js.map": "/VANSHPRAJAPATI115/CRUD-Web-Application.git/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a6d1f18.css",
+    "static/js/main.4afd466a.js"
+  ]
+}
